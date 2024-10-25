@@ -1,2 +1,1 @@
-http://localhost/sab
-(with server running locally)
+http://three.tripnia.net/sab
